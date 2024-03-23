@@ -71,3 +71,19 @@ input[type="submit"] {
     border-color: rgb(255, 255, 255);
     min-width: 300px;
 }
+
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(163, 73, 83);
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+}
